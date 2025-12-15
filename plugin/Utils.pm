@@ -101,7 +101,7 @@ sub yt_dlp_bin {
 }	
 
 sub yt_dlp_binaries {
-	return qw ( yt-dlp_linux yt-dlp_linux_aarch64 yt-dlp_linux_armv7l yt-dlp_macos yt-dlp.exe yt-dlp);
+	return qw ( yt-dlp_linux yt-dlp_linux_aarch64 yt-dlp_linux_armv7l yt-dlp_freebsd14 yt-dlp_macos yt-dlp.exe yt-dlp);
 }
 
 
