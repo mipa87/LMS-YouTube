@@ -65,7 +65,7 @@ PLUGIN_YOUTUBE_MISSINGKEY
 	EN	- Return to the YouTube plugin and paste your key, making sure there are no preceeding or trailing spaces in what you paste.
 
 PLUGIN_YOUTUBE_MISSINGSSL
-	CS	SSL je vyžadováno (zkuste jej nainstalovat pomocí CPAN a/nebo v Linuxu proveďte „sudo apt-get install libio-socket-ssl-perl libnet-ssleay-perl„)
+	CS	SSL je vyžadováno (zkuste jej nainstalovat pomocí CPAN a/nebo v Linuxu proveďte „sudo apt-get install libio-socket-ssl-perl libnet-ssleay-perl“)
 	DA	SSL er påkrævet (prøv at installere det ved hjælp af CPAN og/eller på Linux kør "sudo apt-get install libio-socket-ssl-perl libnet-ssleay-perl")
 	DE	SSL wird benögtig (installiere mit dem Paket-Manager deines Betriebssystems, z.B. "sudo apt-get install libio-socket-ssl-perl libnet-ssleay-perl")
 	EN	SSL required (try to install it using CPAN and/or on Linux do "sudo apt-get install libio-socket-ssl-perl libnet-ssleay-perl")
@@ -174,13 +174,13 @@ PLUGIN_YOUTUBE_RECENTLYPLAYED
 	EN	Recently Played
 
 PLUGIN_YOUTUBE_URL
-	CS	YouTube URL nebo ID videa
+	CS	YouTube adresa URL nebo ID videa
 	DA	YouTube URL eller video ID
 	DE	YouTube URL oder Video ID
 	EN	YouTube URL or Video id
 
 PLUGIN_YOUTUBE_URLRELATEDSEARCH
-	CS	Související s URL nebo ID videa
+	CS	Související s adresou URL nebo ID videa
 	DA	Relateret URL eller video ID
 	DE	Verwandte URL oder Video ID
 	EN	Related to URL or Video id
@@ -198,7 +198,7 @@ PLUGIN_YOUTUBE_PLAYALL
 	EN	All tracks
 
 PLUGIN_YOUTUBE_BADURL
-	CS	Neplatná adresa YouTube URL
+	CS	Neplatná YouTube adresa URL
 	DA	Ugyldig YouTube URL
 	DE	Ungültige YouTube URL
 	EN	Bad YouTube URL
